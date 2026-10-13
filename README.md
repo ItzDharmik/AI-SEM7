@@ -4,6 +4,12 @@ Artificial Intelligence practicals (Semester 7) by Dharmik Modi.
 
 Each `exp_N.py` has its output image `opAIN.png` in the same folder (12 practicals).
 
+## Setup
+
+```
+pip install -r requirements.txt
+```
+
 ## Run
 
 ```
